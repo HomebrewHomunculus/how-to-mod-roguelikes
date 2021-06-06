@@ -173,9 +173,9 @@ At this point, we can either attempt to acquire the missing library, or we can a
   ./sil
   ```
 
-  It runs! Woohoo!
+  ...It runs! Woohoo!
 
-  [image1]
+  ![image1](images/image1.png)
 
   However, this is not the X11 window version we wanted.
   (How can we tell? There is only one Window, and the GUI for Angband-based
@@ -190,7 +190,8 @@ At this point, we can either attempt to acquire the missing library, or we can a
   ./silx
   ```
 
-  [image2]
+
+  ![image2](images/image2.png)
 
   That's more like it!
 
@@ -321,7 +322,7 @@ cd ..
 
 And...
 
-[image 3]
+![image3](images/image3.png)
 
 Hey presto! Our Edain character now has more appropriate provisions
 for an expedition into Angband, including a longsword and some armour!
