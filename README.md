@@ -48,8 +48,11 @@ but you will have to find and install those tools yourself.
 
 If you're not familiar with Sil, an introduction will not be
 provided here, but you can read
-[the Sil manual](hhttps://github.com/sil-quirk/sil-q/blob/master/Sil%201.3%20Manual.pdf)
+[the Sil manual](https://github.com/sil-quirk/sil-q/blob/master/Sil%201.3%20Manual.pdf)
 to learn more.
+
+Also note that this guide is not legal advice - always consult the specific
+license of the software you're modifying.
 
 
 ## Learning by doing: Create your own mod of _Sil-Q_
