@@ -321,6 +321,7 @@ This is the stat block for Edain in `edit/race.txt`:
 
   After saving the file, we're finished making changes for now.
 
+  You can also view the code changes made here [in this GitHub repository](https://github.com/HomebrewHomunculus/sil-q-mod-example/pull/1/files).
 
 #### 7. Run your modified game
 
