@@ -15,12 +15,13 @@ under various licenses. This means that we are legally free to modify
 the game and distribute our own variants of it - as long as we follow
 the terms of the particular license provided with that game.
 
-### What this is
+#### What this is
 
 This article is a walkthrough for creating your own variant of
 an open-source roguelike game. We will be using **_Sil-Q_** as an example -
 but the general process is the same for many other games, such as _Brogue_
-and _Angband_. You can find a list of game ideas to mod in [GAMELIST.md](GAMELIST.md)
+and _Angband_.
+You can find a list of game ideas to mod in [GAMELIST.md](GAMELIST.md).
 
 Roguelike fans often refer to variants of a game as "forks", from the
 version control practice of creating parallel versions of a project.
@@ -32,7 +33,7 @@ _Sil_, which is a heavily modified variant of _NPPAngband_, which
 is a fork of _Angband_.
 
 
-### What this isn't
+#### What this isn't
 
 This guide will follow each step
 on the way towards having your own roguelike fork to play. Along the way,
@@ -65,7 +66,7 @@ but it will be useful afterwards if you want to make
 larger changes to the game logic.
 
 
-### 1. Set up your operating system
+#### 1. Set up your operating system
 
 As a general guideline, for any open-source C projects, roguelike or
 otherwise, I recommend you get a **Linux** environment.
@@ -94,7 +95,7 @@ It's simply not worth the pain, in my experience. However, the
 does say that it has been tested and confirmed to work. So it's up to you.
 
 
-### 2. Set up your tools
+#### 2. Set up your tools
 
 If you installed Linux, then you will most likely already have `git`.
 If not, install it now.
@@ -112,7 +113,7 @@ if you make bigger changaes to code, you may want a proper IDE.
 Use whatever you prefer.
 
 
-### 3. Clone or fork the repository
+#### 3. Clone or fork the repository
 
 Now we need to acquire the source code.
 
@@ -146,7 +147,7 @@ Now, clone the forked repository to your machine:
 git clone https://github.com/Your_Profile/sil-q.git
 ```
 
-### 4. Compile the unmodified game
+#### 4. Compile the unmodified game
 
 
 Now that you have a local copy of the source code, follow the
@@ -265,7 +266,7 @@ At this point, we can either attempt to acquire the missing library, or
   That's more like it - the classic little Angband windows are there!
 
 
-### 5. Take a well-deserved break
+#### 5. Take a well-deserved break
 
 If you got this far, **congratulations**! Setting up a development environment
 and troubleshooting build tools is some of the most tedious work in software development.
@@ -285,7 +286,7 @@ then we'll know that the error was introduced by our latest
 modifications, and the problem has nothing to do with the original source or our tools.
 
 
-### 6. Modify the game's source
+#### 6. Modify the game's source
 
 Great, now let's jump into the actual source files!
 
@@ -379,7 +380,7 @@ This is the stat block for Edain in `edit/race.txt`:
   After saving the file, we're finished making changes for now.
 
 
-## 7. Run your modified game
+#### 7. Run your modified game
 
 Having made our modifications, we build the executable again
 (after making sure that the game isn't still running), and launch it again:
