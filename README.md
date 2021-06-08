@@ -20,7 +20,7 @@ the terms of the particular license provided with that game.
 This article is a walkthrough for creating your own variant of
 an open-source roguelike game. We will be using **_Sil-Q_** as an example -
 but the general process is the same for many other games, such as _Brogue_
-and _Angband_.
+and _Angband_. You can find a list of game ideas to mod in [GAMELIST.md](GAMELIST.md)
 
 Roguelike fans often refer to variants of a game as "forks", from the
 version control practice of creating parallel versions of a project.
