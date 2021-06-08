@@ -58,4 +58,4 @@ license of the software you're modifying.
 
 ## Learning by doing: Create your own mod of _Sil-Q_
 
-To start the tutorial, proceed to [here](HOWTOMOD_SIL-Q.md).
+#### To proceed with the tutorial, [click here](HOWTOMOD_SIL-Q.md).
