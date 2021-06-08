@@ -406,7 +406,7 @@ Understand: if you can do this, then there's nothing
 within your imagination that you cannot also do.
 
 
-### 8. You are now a modder!
+### You are now a modder!
 
 That's it. **You've modified a game!**
 
@@ -418,7 +418,7 @@ is strictly necessary.
 
 We didn't make any complex changes to the game logic yet, as that's beyond
 a single tutorial. I've (hopefully) helped you make a start, but the rest
-of the path you'll have to forge on your own.
+of the path you'll have to forge on your own.###
 As you build on top of this work, perhaps you'll end up making large
 changes to the game's systems - which will require a lot of custom code.
 Or maybe these data changes are as complex as it gets for you, and your
